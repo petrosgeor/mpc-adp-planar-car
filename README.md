@@ -10,4 +10,4 @@ tracking a moving target under certainty equivalence, and actor-critic control o
   <em>Value iteration: the car drives around the obstacle to the target (Section 2.3).</em>
 </p>
 
-[Read the report (PDF)](neurofuzzy-control-semester-project.pdf). This is an English translation of the original Greek report.
+[Read the report (PDF)](neurofuzzy-control-semester-project.pdf)
